@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "502851470927",
+    "project_id": "seguitex",
+    "storage_bucket": "seguitex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502851470927:android:d04efd5724fac0e24b0c3a",
+        "android_client_info": {
+          "package_name": "Zarco.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502851470927-mbsqqo9qnugft4sdqtcir2954gh8mpen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghYN4EHnM-SnRRXlBNFhlj2OSmyewems"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502851470927-mbsqqo9qnugft4sdqtcir2954gh8mpen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
